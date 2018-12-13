@@ -1,22 +1,22 @@
 module.exports = {
-  siteTitle: "HeroBlog - a GatsbyJS starter", // <title>
-  shortSiteTitle: "HeroBlog - GatsbyJS starter", // <title> ending for posts and pages
-  siteDescription: "HeroBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-hero-blog.greglobinski.com",
+  siteTitle: "Akari", // <title>
+  shortSiteTitle: "Akari - first website", // <title> ending for posts and pages
+  siteDescription: "This is our first website",
+  siteUrl: "https://akari.io",
   // pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
 
   /* author */
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Tom Cox",
+  authorTwitterAccount: "koxzi95",
 
   /* info */
-  headerTitle: "greg lobinski",
-  headerSubTitle: "presents another one GatsbyJS starter",
+  headerTitle: "Akari",
+  headerSubTitle: "Our first website",
 
   /* manifest.json */
-  manifestName: "HeroBlog - a GatsbyJS starter",
+  manifestName: "HeroBlog",
   manifestShortName: "HeroBlog", // max 12 characters
   manifestStartUrl: "/index.html",
   manifestBackgroundColor: "white",
@@ -32,8 +32,8 @@ module.exports = {
 
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "http://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/koxzi95" },
+    { name: "twitter", url: "https://twitter.com/koxzi95" },
+    { name: "linkedin", url: "https://www.linkedin.com/in/koxzi95/" }
   ]
 };
